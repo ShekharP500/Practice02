@@ -20,7 +20,7 @@ provider "azurerm" {
 #####################################
 
 resource "azurerm_resource_group" "rg" {
-  name     = "rg-linux-vm-demo"
+  name     = "rg-500new2016"
   location = "Central India"
 }
 
